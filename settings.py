@@ -9,7 +9,7 @@ class Settings():
         self.T1 = 8.3
         self.T2 = 6.2
         self.T0 = 1
-        #self.K1 = (self.K / self.T1 / self.T2)
         self.M = 32768
         self.A = 179
         self.x0 = 11
+        self.delta = 1
